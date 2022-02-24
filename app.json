@@ -1,7 +1,7 @@
 {
   "name": "MEGA INDEX UNLIMITED",
   "description": "An Unlimited MEGA INDEX without any limitations",
-  "logo": "https://github.com/TheCaduceus/MEGA-INDEX/blob/main/Img/logo.jpg?raw=true",
+  "logo": "https://github.com/TheCaduceus/MEGA-INDEX/blob/main/Img/logo.jpg",
   "keywords": ["mega", "index", "unlimited", "mega.nz", "megaindex", "mega.nz-index", "stream", "downloader", "proxy", "bypass", "directlink", "link"],
   "env": {
      "UserName": {
