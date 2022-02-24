@@ -1,0 +1,21 @@
+{
+  "name": "MEGA INDEX UNLIMITED",
+  "description": "An Unlimited MEGA INDEX without any limitations",
+  "logo": "",
+  "keywords": ["mega", "index", "unlimited", "mega.nz", "megaindex", "mega.nz-index", "stream", "downloader", "proxy", "bypass", "directlink", "link"],
+  "env": {
+     "UserName": {
+      "description": "Enter Mega Username or Email ID",
+      "value": ""
+    },
+     "PassWord": {
+      "description": "Password of Mega Account Carefully",
+      "value": ""
+    }
+
+
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+ }
