@@ -11,7 +11,7 @@
 <h4><b>2.Now Enter a Unique App Name and Username/Email & Password of your Mega Account Carefully! and click Deploy Button</b></h4>
 <img src="Img/b.png" alt="Img/b.png">
 <h4><b>3.After Deployment Click "View App" Button and it will open a Website which is your Mega Drive Index! That sit Enjoy!😎</b></h4>
-<img src="Img/c.png" alt="Img/c.png">
+<img src="Img/d.png" alt="Img/d.png">
 <p><b>❗The URL of your MEGA INDEX will be in this format: https://appname.herokuapp.com/❗</b></p>
 <h2>❤️Credits & Thanks</h2>
 <p><a href="https://github.com/TheCaduceus">Dr.Caduceus</a>: For making this Powerful MEGA INDEX.</p>
